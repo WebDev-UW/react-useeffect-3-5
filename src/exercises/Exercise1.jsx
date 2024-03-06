@@ -1,5 +1,8 @@
 import React, { useEffect, useState } from "react";
 
+// in the terminal, run "npm i" to install all modules needed
+// then, run "npm run dev" to start the local server
+
 function Logging() {
   const [count, setCount] = useState(0);
 
